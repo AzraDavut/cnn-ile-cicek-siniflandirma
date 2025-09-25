@@ -1,4 +1,4 @@
-# cnn-ile-cicek-siniflandirma
+# CNN-ile-cicek-siniflandirma
 ## Projenin Amacı
 
 Bu projenin amacı, derin öğrenme tabanlı bir Convolutional Neural Network (CNN) modeliyle farklı çiçek türlerini görselden otomatik olarak ayırt edebilen bir sınıflandırıcı geliştirmektir. Görsel veriler üzerinde temel veri ön işleme, augmentasyon ve modern derin öğrenme yöntemleri kullanılarak yüksek doğrulukta tahmin yapılması hedeflenmiştir.  Bu tür bir model; botanik araştırmaları, tarım uygulamaları veya eğitim amaçlı kullanılabilir. İleride bu ve benzeri modeller kullanılarak çiçek görsellerinden elde edilen verilerle tanımlama yapmayı ve bitki bakımını kolaylaştırmayı sağlayan bir uygulama tasarlanabilir.
